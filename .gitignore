@@ -1,0 +1,11 @@
+/.venv/
+/.idea/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!/.env.example
+/output/
+/backup_chats/
+/avito-search.html
+/avito-search_files/
